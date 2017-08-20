@@ -9,6 +9,6 @@ This library extends the [TFT_ILI9163C](https://github.com/sumotoy/TFT_ILI9163C)
 
 It is still possible to position the cursor, by pixel, as before, using the `setCursor()` method.
 
-Please see also the [ILI9163C_Extended_Char](https://github.com/greenonline/TFT_ILI9163C_Extended_Char) library
+Please see also the [TFT_ILI9163C_Extended_Char](https://github.com/greenonline/TFT_ILI9163C_Extended_Char) library
 
-Please note that this TFT_ILI9163C_Extended library is somewhat redundant as the [ILI9163C_Extended_Char](https://github.com/greenonline/TFT_ILI9163C_Extended_Char) library, now, also supports *both* pixel and character resolution cursor placement.
+Please note that this TFT_ILI9163C_Extended library is somewhat redundant as the [TFT_ILI9163C_Extended_Char](https://github.com/greenonline/TFT_ILI9163C_Extended_Char) library, now, also supports *both* pixel and character resolution cursor placement.
